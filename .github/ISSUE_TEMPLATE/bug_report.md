@@ -19,7 +19,7 @@ about: Create a report to help us improve
 ### Steps to reproduce the behavior:
 
  1. Go to '...'
- 2. Click on '....'
+ 2. Click on '...'
  3. See error
 
 ### Screenshots
@@ -32,9 +32,9 @@ about: Create a report to help us improve
 
 ### Desktop (please complete the following information):
 
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. `iOS`, `Linux`, `Windows`]
+ - Browser: [e.g. `Chrome`, `Firefox`]
+ - Version: [e.g. `67.0.3396.62 64 bit`]
 
 ## Additional context
 
